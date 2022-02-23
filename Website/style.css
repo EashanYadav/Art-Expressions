@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+#title{
+    background-color: #c03563
+}
+/* Logo */
+.logo{
+    width: 100px;
+   
+}
+/* naviagtaion bar */
+.nav-item{
+    font-family: "Montserrat",sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: black;
+}
+/* carousel */
+#carousel{
+   height: 20rem;
+   background-color: grey;
+   position: relative;
+   background-position: center;
+   background-size: cover;
+   padding: 15% 2%;
+}
+
